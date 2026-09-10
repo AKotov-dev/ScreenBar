@@ -26,9 +26,9 @@
 XDG_CURRENT_DESKTOP
         │
         ├── Budgie   (X11)  → scrot
-        ├── GNOME            → gnome-screenshot
-        ├── KDE              → spectacle
-        ├── XFCE             → xfce4-screenshooter
+        ├── GNOME           → gnome-screenshot
+        ├── KDE             → spectacle
+        ├── XFCE            → xfce4-screenshooter
         ├── LXQt     (X11)  → scrot
         ├── LXDE     (X11)  → scrot
         ├── MATE     (X11)  → scrot
