@@ -5,7 +5,7 @@
 + DEB: `libgtk2.0-0`, `zbar-tools`, `scrot` (Ubuntu)
 
 **Рабочий каталог:** `~/.config/screenbar`
-
+![](https://github.com/AKotov-dev/ScreenBar/blob/main/Screenshot2.png)  
 Программа предназначена для быстрого сканирования QR- и бар-кодов,
 отображаемых на экране монитора, без использования веб-камеры.
 
