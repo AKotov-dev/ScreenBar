@@ -34,4 +34,6 @@ XDG_CURRENT_DESKTOP
         ├── MATE     (X11)  → scrot
         └── Cinnamon (X11)  → scrot
 ```
-Финальное распознавание кодов выполняется утилитой `zbarimg`.
+Финальное распознавание кодов выполняется утилитой `zbarimg`.  
+  
+**Похожие программы:** [OzonBarcode](https://github.com/AKotov-dev/OzonBarcode).
