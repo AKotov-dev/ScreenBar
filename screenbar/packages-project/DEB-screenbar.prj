@@ -2,7 +2,7 @@
 name=screenbar
 
 [VERSION]
-version=0.1
+version=0.2
 
 [RELEASE]
 release=0.mrx10
@@ -61,6 +61,10 @@ devtool=Lazarus
 toolversion=4.4
 
 [INFO]
-0=v0.1
-1=- Initial Release
+0=v0.2
+1=+ Enhancement for the `spectacle`
 2=+ RPM / DEB packages
+3=
+4=v0.1
+5=- Initial Release
+6=+ RPM / DEB packages
