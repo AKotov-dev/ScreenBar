@@ -36,4 +36,4 @@ XDG_CURRENT_DESKTOP
 ```
 Финальное распознавание кодов выполняется утилитой `zbarimg`.  
   
-**Похожие программы:** [OzonBarcode](https://github.com/AKotov-dev/OzonBarcode).
+**Похожие программы:** [OzonBarcode](https://github.com/AKotov-dev/OzonBarcode). 
