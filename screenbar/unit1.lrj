@@ -1,0 +1,7 @@
+{"version":1,"strings":[
+{"hash":134403005,"name":"tmainform.caption","sourcebytes":[77,97,105,110,70,111,114,109],"value":"MainForm"},
+{"hash":134667317,"name":"tmainform.scanbtn.caption","sourcebytes":[83,99,97,110,32,99,111,100,101],"value":"Scan code"},
+{"hash":248669518,"name":"tmainform.label1.caption","sourcebytes":[84,104,101,32,116,101,120,116,32,104,97,115,32,98,101,101,110,32,99,111,112,105,101,100,32,116,111,32,116,104,101,32,99,108,105,112,98,111,97,114,100,46,46,46],"value":"The text has been copied to the clipboard..."},
+{"hash":168853526,"name":"tmainform.savebtn.hint","sourcebytes":[109,121,99,111,100,101,46,99,111,110,102],"value":"mycode.conf"},
+{"hash":366789,"name":"tmainform.savebtn.caption","sourcebytes":[83,97,118,101],"value":"Save"}
+]}

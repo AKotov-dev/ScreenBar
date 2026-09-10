@@ -1,0 +1,39 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8"
+
+#: tmainform.caption
+msgid "MainForm"
+msgstr ""
+
+#: tmainform.label1.caption
+msgid "The text has been copied to the clipboard..."
+msgstr ""
+
+#: tmainform.savebtn.caption
+msgid "Save"
+msgstr ""
+
+#: tmainform.savebtn.hint
+msgid "mycode.conf"
+msgstr ""
+
+#: tmainform.scanbtn.caption
+msgid "Scan code"
+msgstr ""
+
+#: unit1.scodenotfound
+msgid "Code not found..."
+msgstr ""
+
+#: unit1.sscreenshotfailed
+msgid "Screenshot failed!"
+msgstr ""
+
+#: unit1.sscrotnotinstalled
+msgid "scrot is not installed!"
+msgstr ""
+
+#: unit1.szbarimgnotinstalled
+msgid "zbarimg is not installed!"
+msgstr ""
+

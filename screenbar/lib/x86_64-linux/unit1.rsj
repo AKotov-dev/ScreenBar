@@ -1,0 +1,6 @@
+{"version":1,"strings":[
+{"hash":28863950,"name":"unit1.scodenotfound","sourcebytes":[67,111,100,101,32,110,111,116,32,102,111,117,110,100,46,46,46],"value":"Code not found..."},
+{"hash":209438401,"name":"unit1.sscreenshotfailed","sourcebytes":[83,99,114,101,101,110,115,104,111,116,32,102,97,105,108,101,100,33],"value":"Screenshot failed!"},
+{"hash":100492993,"name":"unit1.szbarimgnotinstalled","sourcebytes":[122,98,97,114,105,109,103,32,105,115,32,110,111,116,32,105,110,115,116,97,108,108,101,100,33],"value":"zbarimg is not installed!"},
+{"hash":173027057,"name":"unit1.sscrotnotinstalled","sourcebytes":[115,99,114,111,116,32,105,115,32,110,111,116,32,105,110,115,116,97,108,108,101,100,33],"value":"scrot is not installed!"}
+]}
