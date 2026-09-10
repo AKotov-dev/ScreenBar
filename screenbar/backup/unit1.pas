@@ -147,7 +147,7 @@ begin
 
     else if Pos('KDE', DE) > 0 then
       Result := RunCommand('spectacle', ['--fullscreen', '--background',
-        '--no-decoration', '--no-shadow', '--nonotify', '--output', ScreenshotFile], S)
+        '--nonotify', '--output', ScreenshotFile], S)
 
     else if Pos('XFCE', DE) > 0 then
       Result := RunCommand('xfce4-screenshooter', ['-f', '-s', ScreenshotFile], S)

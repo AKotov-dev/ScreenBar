@@ -17,7 +17,7 @@ uses
 
 begin
   RequireDerivedFormResource := True;
-  Application.Title:='ScreenBar v0.1';
+  Application.Title:='ScreenBar v0.2';
   Application.Scaled:=True;
   {$PUSH}
   {$WARN 5044 OFF}
