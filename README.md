@@ -1,7 +1,7 @@
 ## ScreenBar - QR and Barcode Scanner
 
-**Зависимости**
-+ RPM: `gtk2`, `zbar`, `scrot` (Mageia 10)
+**Зависимости:**
++ RPM: `gtk2`, `zbar`, `scrot` (Mageia-10)
 + DEB: `libgtk2.0-0`, `zbar-tools`, `scrot` (Ubuntu)
 
 **Рабочий каталог:** `~/.config/screenbar`
